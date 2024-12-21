@@ -1,8 +1,4 @@
 '''
-OVERAL PROGRAM INTENTION
-This program was designed for CISC/CMPE 327 Assignment 5, November 2023
-by Anthony Jones, Akash Singh, and Zarrin Tasnim. 
-
 The program outlines an e-learning wesbite we called SIMLearn, with various functionalities from basic login
 to searching courses and viewing lessons. This is version of the website now includes some backend functionality 
 by integrating SQLite. 
